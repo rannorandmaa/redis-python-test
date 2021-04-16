@@ -29,7 +29,9 @@ Open browser: http://localhost:8081/. Add and connect new server.
 ![redis commander](redis-commander.jpg)
 
 
-### python
+### python test connection and add/read data to/from redis
+
+Change your local host ip in redis_test.py file host='your.localhost.ip.address' , then:
 
 `$ pip install redis`
 
