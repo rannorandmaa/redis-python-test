@@ -19,9 +19,9 @@ Replace your local host, example is Docker Deskdop on WSL 2 Windows 10. Ping Pon
 
 Open browser: http://localhost:8081/. Add and connect new server.
 
-![redis commander](redis-add-server.jpg)
+![redis commander](redis-add-server.png)
 
-![redis commander](redis-ui-add.jpg)
+![redis commander](redis-ui-add.png)
 
 ![redis commander](redis-commander.jpg)
 
