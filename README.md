@@ -5,9 +5,12 @@
 
 ### run cli
 
-Replace your local host, example is Docker Deskdop on WSL 2 Windows 10.
+Replace your local host, example is Docker Deskdop on WSL 2 Windows 10. Ping Pong example.
 
 `$ docker run -it --rm --name my-redis-cli redis redis-cli -h 172.25.112.1 -p 7001`
+`$ 172.25.112.1:7001> ping`
+`$ PONG`
+`$ 172.25.112.1:7001>`
 
 
 ### run redis commander
